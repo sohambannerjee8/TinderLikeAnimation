@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TinderLikeAnimation</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="help3">Some content include questions from people around you.\nYou can remove such content from the settings.</string>
+
+    <string-array name="content_types">
+        <item>Questions</item>
+        <item>Events</item>
+        <item>Happy hours</item>
+    </string-array>
+
+</resources>
